@@ -1,1 +1,4 @@
 # Combinatorics_Flow_Algos
+All flow algorithms and testing is done in Main.java.
+Graph class creates a graph object and allows for edges to
+be added to it. Screenshots are the two networks used for testing.
